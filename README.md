@@ -27,10 +27,8 @@ Built with ❤️ during a hackathon, SkillBridge empowers individuals to exchan
 
 ## 🚀 Deployment
 
-- **GitHub Repository**: [GitHub Link Here](#)
-- **Live Demo**: [Vercel Deployment Link Here](#)
-
-> _🔖 Replace the above links after deployment!_
+- **GitHub Repository**: [GitHub Link Here](#https://yashverma8246.github.io/SkillBridge/)
+- **Live Demo**: [Vercel Deployment Link Here](#https://skill-bridge-lake-gamma.vercel.app/)
 
 ---
 
